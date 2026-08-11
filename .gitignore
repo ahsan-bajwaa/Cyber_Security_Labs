@@ -1,0 +1,17 @@
+# Editor temporary / swap files
+*.swp
+*.swo
+*~
+.*.kate-swp
+.kate-swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
