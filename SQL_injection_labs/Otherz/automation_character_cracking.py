@@ -6,8 +6,8 @@ import urllib.parse
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 PROXIES = {'http': 'http://127.0.0.1:8080', 'https': 'http://127.0.0.1:8080'}
-TRACKING_ID_PREFIX = 'gcoeGai2s4eR9Yce'   # update if it rotates
-SESSION_COOKIE = 'WgcibNvWfZzbGjboHQHLWt5rS7h2CN5X'
+TRACKING_ID_PREFIX = '3FjmybNUhvtTL3; '   # update if it rotates
+SESSION_COOKIE = '2Q65vxgYcyKstjYbdJUSsmK2KWyEf0u2'
 PASSWORD_LENGTH = 20                       # you already confirmed this
 
 
