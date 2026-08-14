@@ -136,7 +136,7 @@ length of the password.
 As with boolean-based extraction, testing every character position by
 hand doesn't scale — this uses the same length-then-binary-search
 approach, sending requests programmatically instead of through Burp
-Repeater/Intruder. See `extract_password.py` in this folder for the
+Repeater/Intruder. See `error_base_sql.char_BF.py` in this folder for the
 working script.
 
 ---

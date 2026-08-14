@@ -114,7 +114,9 @@ send the requests programmatically, apply the binary search logic in code,
 and let it run through every position automatically instead of you
 clicking through each one.
 
-See `extract_password.py` in this folder for the working script.
+See `blind_sql_injection_BF_script.py` in this folder for the working script.
+
+Also you can see the `Walkthrough.docx`, I added screenshots too.
 
 ---
 
